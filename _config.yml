@@ -1,5 +1,5 @@
 name: test
 description: test2
-markdown: kramdown
+markdown: GFM
 highlighter: rouge
 
