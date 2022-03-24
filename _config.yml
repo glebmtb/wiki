@@ -1,1 +1,5 @@
-theme: jekyll-theme-hacker
+name: test
+description: test2
+markdown: kramdown
+highlighter: rouge
+
