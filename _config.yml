@@ -2,3 +2,5 @@ name: test
 description: test2
 markdown: GFM
 highlighter: rouge
+
+theme: jekyll-theme-leap-day
