@@ -3,3 +3,5 @@ description: test2
 markdown: GFM
 highlighter: rouge
 
+
+theme: jekyll-theme-hacker
