@@ -8,4 +8,8 @@ select to_char(to_timestamp(create_ts / 1000), 'yyyy-mm-dd')
 ```
 select to_char(now(), 'yyyy-mm-dd')
 ```
+**now java timestamp**
+```
+select CAST (EXTRACT (epoch from current_timestamp) AS bigint) * 1000 as now;
+```
 
