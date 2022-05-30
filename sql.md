@@ -13,3 +13,7 @@ select to_char(now(), 'yyyy-mm-dd')
 select CAST (EXTRACT (epoch from current_timestamp) AS bigint) * 1000 as now;
 ```
 
+**json**
+```
+where action ->> 'canonCode' = 'incggzz8wnkn5'
+```
