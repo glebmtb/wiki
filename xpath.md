@@ -9,7 +9,7 @@
 `text()` - текст элемента
 
 **поиск по содержимому**  
-`contains(@class, 'text')`
+`contains(@class, 'text')`  
 `starts-with(@class, 'text')`
 
 **поиск по совпадению класса один в один**  
