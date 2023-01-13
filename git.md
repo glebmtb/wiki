@@ -175,3 +175,8 @@ git config -l
 ``` 
 git rev-parse --short HEAD
 ```
+
+**удалить файл из индекса git**
+```
+git rm --cached [file]
+```
