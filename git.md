@@ -177,6 +177,7 @@ git rev-parse --short HEAD
 ```
 
 **удалить файл из индекса git**
+надо указать полный путь к файлу
 ```
 git rm --cached [file]
 ```
