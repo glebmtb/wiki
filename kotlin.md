@@ -17,3 +17,9 @@ fun main() {
   println(test3) //it -> hello world
 }
 ```
+**for**
+```
+for (indexItem in 0..codesRows.size) {
+  println(indexItem)
+}
+```    
