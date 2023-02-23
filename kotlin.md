@@ -19,7 +19,7 @@ fun main() {
 ```
 **for**
 ```
-for (indexItem in 0..codesRows.size) {
+for (indexItem in 0..1000) {
   println(indexItem)
 }
 ```    
