@@ -3,30 +3,35 @@ Client
 
 Server
 
-~/.ssh/id\_rsa  
-~/.ssh/id\_rsa.pub
+    ~/.ssh/id\_rsa  
+    ~/.ssh/id\_rsa.pub
 
   
-~/.ssh/authorized\_keys
+    ~/.ssh/authorized\_keys
 
 для авторизации нужно добавить содержимое id\_rsa.pub в authorized\_keys
 
 **Создание ключа**  
-ssh-keygen
+
+    ssh-keygen
 
 **Сообщить системе о ключе**  
-ssh-add
+
+    ssh-add
 
 **Отключить авторизацию по паролю**  
-usermod -L <user>  
-usermod -U <user>
+
+    usermod -L <user>  
+    usermod -U <user>
 
 **Конфигурация ssh**  
-/etc/ssh/ssh\_config  
+
+    /etc/ssh/ssh\_config  
 разрешенный ключи - IdentityFile ~/.ssh/id\_dsa
 
 **Копируем ключи на удалённую машину**  
-ssh-copy-id 01.0.861.291|eroc#01.0.861.291|eroc
+
+    ssh-copy-id 01.0.861.291|eroc#01.0.861.291|eroc
 
 Добавление ключа через bash
 ---------------------------
