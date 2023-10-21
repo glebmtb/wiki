@@ -10,7 +10,6 @@
 *   [nginx](nginx.md)
 *   [Переменные среды Linux](peremennye-sredy-linux.md)
 *   [VPN](vpn.md)
-*   [Mono](mono.md)
 *   [Zsh](zsh.md)
 *   [Samba](samba.md)
 *   [Алиасы](alias.md)
