@@ -26,7 +26,7 @@ Bash
 ----
 
 [Скрипты на bash](skripty-na-bash.md)  
-[bash](bash.md)
+[bash](../bash.md)
 
 Программы
 ---------
