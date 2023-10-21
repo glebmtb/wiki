@@ -9,7 +9,6 @@
 *   [OpenSUSE](opensuse.md)
 *   [nginx](nginx.md)
 *   [Переменные среды Linux](peremennye-sredy-linux.md)
-*   [Автозапуск при загрузке компьютера](avtozapusk-pri-zagruzke-komputera.md)
 *   [VPN](vpn.md)
 *   [Mono](mono.md)
 *   [Zsh](zsh.md)
