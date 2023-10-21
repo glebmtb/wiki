@@ -7,7 +7,7 @@
 [Цитаты резюме](citaty-rezume.md)  
 [Подбор материала по саморазвитию](podbor-materiala-po-samorazvitiu.md)
 
-[Linux](linux.md)  
+[Linux](linux/linux.md)  
 [MacOS](macos.md)  
 [Windows](windows.md)  
 [Android](android.md)
