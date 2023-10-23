@@ -1,28 +1,28 @@
 
-*   [ssh key](ssh-key.md)
-*   [vim](vim.md)
-*   [Java SDK](ustanovka-java-sdk-na-linux.md)
-*   [Squid](squid.md)
-*   [PostgreSQL](postgresql.md)
-*   [Apache Tomcat](apache-tomcat.md)
-*   [Sphinx](sphinx.md)
-*   [OpenSUSE](opensuse.md)
-*   [nginx](nginx.md)
-*   [Переменные среды Linux](peremennye-sredy-linux.md)
-*   [VPN](vpn.md)
-*   [Zsh](zsh.md)
-*   [Samba](samba.md)
-*   [Алиасы](alias.md)
-*   [Безопасность](bezopasnost.md)
-*   [Ярлыки](arlyki.md)
+*   [ssh key](linux/ssh-key.md)
+*   [vim](linux/vim.md)
+*   [Java SDK](linux/ustanovka-java-sdk-na-linux.md)
+*   [Squid](linux/squid.md)
+*   [PostgreSQL](linux/postgresql.md)
+*   [Apache Tomcat](linux/apache-tomcat.md)
+*   [Sphinx](linux/sphinx.md)
+*   [OpenSUSE](linux/opensuse.md)
+*   [nginx](linux/nginx.md)
+*   [Переменные среды Linux](linux/peremennye-sredy-linux.md)
+*   [VPN](linux/vpn.md)
+*   [Zsh](linux/zsh.md)
+*   [Samba](linux/samba.md)
+*   [Алиасы](linux/alias.md)
+*   [Безопасность](linux/bezopasnost.md)
+*   [Ярлыки](linux/arlyki.md)
 
 Destop
 ------
-*   [Ubuntu destop](ubuntu-destop.md)
+*   [Ubuntu destop](linux/ubuntu-destop.md)
 ----
 
-[Скрипты на bash](skripty-na-bash.md)  
-[bash](../bash.md)
+[Скрипты на bash](linux/skripty-na-bash.md)  
+[bash](bash.md)
 
 Программы
 ---------
@@ -53,13 +53,13 @@ Cоздание Windows загрузочной флешки: [UNetbootin](https:
 Ярлыки (.destop файлы) складывать в /usr/share/applications
 
 **Proxy:**  
-[Squid](squid.md)  
+[Squid](linux/squid.md)  
 [Privoxy](privoxy.md)
 
 **Консольные**  
-[tmux](tmux.md) - менеджер терминалов  
-[vim](vim.md) - текстовый редактор  
-[gnuplot](gnuplot.md) - программа для постарения графиков  
+[tmux](linux/tmux.md) - менеджер терминалов  
+[vim](linux/vim.md) - текстовый редактор  
+[gnuplot](linux/gnuplot.md) - программа для постарения графиков  
 iptraf - активность сетевого интерфейса реалтайм  
 [https://github.com/wg/wrk](wrk.md) - бенчмарк http запросов
 

@@ -1,13 +1,12 @@
 
-[Список книг для самообразования](spisok-knig-dla-samoobrazovania.md)  
-[Базовые понятия](bazovye-ponatia.md)  
-[Версионность приложений](versionnost-prilozenij.md)  
-[Нывыки](nyvyki.md)  
-[Что нужно знать программисту](cto-nuzno-znat-programmistu.md)  
-[Цитаты резюме](citaty-rezume.md)  
-[Подбор материала по саморазвитию](podbor-materiala-po-samorazvitiu.md)
+[Список книг для самообразования](other/spisok-knig-dla-samoobrazovania.md)  
+[Базовые понятия](other/bazovye-ponatia.md)  
+[Версионность приложений](other/versionnost-prilozenij.md)  
+[Нывыки](other/nyvyki.md)  
+[Что нужно знать программисту](other/cto-nuzno-znat-programmistu.md)  
+[Цитаты резюме](other/citaty-rezume.md)
 
-[Linux](linux/linux.md)  
+[Linux](linux.md)  
 [MacOS](macos.md)  
 [Windows](windows.md)  
 [Android](android.md)
@@ -37,7 +36,7 @@
 
 [Машина](/web/20211129205615/http://wiki.n5g.ru/masina)  
 [НАПОМИНАНИЕ О ГРАММАТИКЕ](/web/20211129205615/http://wiki.n5g.ru/napominanie-o-grammatike)  
-[20 правил делового этикета](/web/20211129205615/http://wiki.n5g.ru/20-pravil-delovogo-etiketa)  
+[20 правил делового этикета](other/20-pravil-delovogo-etiketa.md)  
 [Кулинария](/web/20211129205615/http://wiki.n5g.ru/kulinaria)  
 [Создания загрузочной флешки](/web/20211129205615/http://wiki.n5g.ru/sozdania-zagruzocnoj-fleski)  
 [Анализ безопасности веб-приложений](/web/20211129205615/http://wiki.n5g.ru/analiz-bezopasnosti-veb-prilozenij)  
@@ -114,7 +113,7 @@ wiki
 ====
 test
 
-[test](test.md)
+[test](other/test.md)
 
 
 # test1
