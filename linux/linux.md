@@ -18,11 +18,7 @@
 
 Destop
 ------
-
-*   [Установка принтера HP LaserJet 1018](ustanovka-printera-hp-laserjet-1018.md)
 *   [Ubuntu destop](ubuntu-destop.md)
-*   [Elementary OS](elementary-os.md)
-Bash
 ----
 
 [Скрипты на bash](skripty-na-bash.md)  
