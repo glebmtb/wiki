@@ -1,3 +1,5 @@
+[оптимизация запроса](database/optimization_query.md)
+
 **unix timestamp to date**
 ```
 select CAST(to_timestamp(create_ts / 1000) AS date)
