@@ -10,7 +10,9 @@ PODAM (POjo DAta Mocker) - предназначен для автоматиче�
 
 
 Добавление в проект:
-`integrationTestImplementation("uk.co.jemos.podam:podam:7.2.11.RELEASE")`
+```
+integrationTestImplementation("uk.co.jemos.podam:podam:7.2.11.RELEASE")
+```
 
 Использование:
 ```
