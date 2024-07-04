@@ -3,9 +3,9 @@
 ```
 import static org.assertj.core.api.Assertions.assertThat;
 
-    assertThat(obj1).usingRecursiveComparison()
+    assertThat(actual).usingRecursiveComparison()
         .ignoringFields("id", "creationDate") // поля, которые не должны участвовать в сравнении
-        .isEqualTo(obj2);
+        .isEqualTo(expected);
 ```
 
 Точное сравнение двух списков (те количество элементов должно совпадать) по одному полю
