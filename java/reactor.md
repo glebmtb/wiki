@@ -40,7 +40,7 @@
 ###### принт промежуточной ошибки
 ```
         .onErrorResume(e -> {
-          System.err.println("Exception occurred during buildPdfAndSendToSp: " + e.getMessage());
+          System.err.println("Exception: " + e.getMessage());
           e.printStackTrace();
           return Mono.error(e); // Пробрасываем ошибку дальше, если необходимо
         });

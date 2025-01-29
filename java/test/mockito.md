@@ -6,3 +6,5 @@ whenever(objeck.getSomthing()).thenReturn(result)
 ```
 ##### Типизированный any
 ```ArgumentMatchers.<ParameterizedTypeReference<Response<Long>>>any()```
+
+

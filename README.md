@@ -1,4 +1,6 @@
 
+[Психология](psi/psi.md)
+
 [Список книг для самообразования](other/spisok-knig-dla-samoobrazovania.md)  
 [Базовые понятия](other/bazovye-ponatia.md)  
 [Версионность приложений](other/versionnost-prilozenij.md)  
